@@ -34,7 +34,8 @@ The tool sends HTTP requests to potential subdomains of a target domain. If a va
 - Working with HTTP requests in Python  
 
 #Related Project
-This tool can be used with custom wordlists generated using a Wordlist Generator.
+This tool can be used with custom wordlists generated using a Wordlist Generator. Below is the URL for wordlist_generator 
+ URL: https://github.com/ksihre/Wordlist_generator
 
 
 ## ⚠️ Disclaimer
